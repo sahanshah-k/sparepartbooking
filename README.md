@@ -2,6 +2,15 @@
 
 GitHub URL : https://github.com/sahanshah-k/sparepartbooking/
 
+Sample users: <br>
+- Normal user : <br>
+Username : ford_user <br>
+Password : ford@user
+
+- Admin User: <br>
+Username : ford_admin <br>
+Password : ford@admin
+
 Implementations: <br>
 ### Mandatory
 
