@@ -1,1 +1,2 @@
+server.port: 80
 spring.data.mongodb.uri: mongodb+srv://secret-man:hPwgx8fFIkLQ4ga3@prod-001.ux10p.mongodb.net/prod-001-01?retryWrites=true&w=majority
